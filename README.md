@@ -1,7 +1,3 @@
-Hi, I'm Alex 👋
-
-## Contributions
-
 Here are some software programs for which I have significantly contributed. You can also check out my [Gitlab](https://gitlab.com/almet) pages to see other contributions.
 
 **[Pelican](http://getpelican.com)**
