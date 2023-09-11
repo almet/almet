@@ -1,3 +1,7 @@
+👋 Hi, I'm Alex.
+
+I'm a developer and ex-brewer from Rennes (France). If you're here, we're probably interacting on Github. Don't hesitate to ask me for help or discussion on the projects I'm involved with.
+
 Here are some software programs for which I have significantly contributed. You can also check out my [Gitlab](https://gitlab.com/almet) pages to see other contributions.
 
 **[Pelican](http://getpelican.com)**
