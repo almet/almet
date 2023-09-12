@@ -10,7 +10,7 @@ A static site generator that I [created in 2010](https://blog.notmyidea.org/peli
 
 **[I Hate Money](http://ihatemoney.org)**
 
-A website that manages group expenses, [created in late 2011](https://blog.notmyidea.org/how-are-you-handling-your-shared-expenses.html). It allows users to input who paid what, for whom, and manages a balance for you.
+A website that manages group expenses, [created in late 2011](https://blog.notmyidea.org/how-are-you-handling-your-shared-expenses.html). It allows users to input who paid what, for whom, and manages a balance for you. It currently hosts ~2500 active projects.
 
 **[Kinto](https://github.com/kinto/kinto)**
 
