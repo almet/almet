@@ -1,6 +1,6 @@
-👋 Hey,
+👋 Hey, I'm Alexis, a free software enthusiast from France. 
 
-Here is some software I contributed to:
+Here is a small list of projects I've been involved with:
 
 - **[Pelican](http://getpelican.com)**: A static site generator I [created in 2010](https://blog.notmyidea.org/pelican-a-simple-static-blog-generator-in-python.html). Currently used by the [Linux Kernel](https://www.kernel.org/pelican.html) and [Debian](https://bits.debian.org/pages/about.html) for their websites.
 - **[I Hate Money](http://ihatemoney.org)**: A website to handle group expenses, [created in late 2011](https://blog.notmyidea.org/how-are-you-handling-your-shared-expenses.html). It allows users to input who paid what, for whom, and manages a balance for you. It currently hosts ~2500 active projects.
@@ -22,15 +22,7 @@ Here is some software I contributed to:
 
 ## Technology
 
-**Python** : I use Python on a daily basis, it's my go-to language. I am familiar with its ecosystem, along with several frameworks (Django, Flask, and Pyramid).
-
-**Linux** : I use Linux as an operating system and for server management. I am particularly familiar with Arch Linux and Debian systems.
-
-**Frontend** : It's not my specialty, but I have enjoyed working with [Elm](https://elm-lang.org/), which brings serenity into front-end development thanks to strong typing.
-
-**System Administration** : I take care of running some services for third parties and myself.
-
-## Education
-
-- Master's degree in Software Engineering, University of Oxford Brookes.
-- Advanced Technician's Diploma (BTS) in Computer Network and Systems, Angers.
+- **Python** : I use Python on a daily basis, it's my go-to language. I am familiar with its ecosystem, along with several frameworks (Django, Flask, and Pyramid).
+- **Linux** : I use Linux as an operating system and for server management. I am particularly familiar with Arch Linux and Debian systems.
+- **Frontend** : It's not my specialty, but I have enjoyed working with [Elm](https://elm-lang.org/), which brings serenity into front-end development thanks to strong typing.
+- **System Administration** : I take care of running some services for third parties and myself.
