@@ -1,32 +1,16 @@
-👋 Hi, I'm Alex.
+👋 Hey,
 
-If you're here, we're probably interacting on Github. Don't hesitate to ask me for help or discussion on the projects I'm involved with.
+Here is some software I contributed to:
 
-Here are some software programs for which I have contributed. You can also check out my [Gitlab](https://gitlab.com/almet) pages to see other contributions.
-
-**[Pelican](http://getpelican.com)**
-
-A static site generator that I [created in 2010](https://blog.notmyidea.org/pelican-a-simple-static-blog-generator-in-python.html). It's currently used by projects like the [Linux Kernel](https://www.kernel.org/pelican.html) and [Debian](https://bits.debian.org/pages/about.html) for their websites, which kinda makes me proud : I wasn't expecting this uptake.
-
-**[I Hate Money](http://ihatemoney.org)**
-
-A website that manages group expenses, [created in late 2011](https://blog.notmyidea.org/how-are-you-handling-your-shared-expenses.html). It allows users to input who paid what, for whom, and manages a balance for you. It currently hosts ~2500 active projects.
-
-**[Kinto](https://github.com/kinto/kinto)**
-
-A generic backend for web applications. I initiated this project with colleagues [in 2012](https://blog.notmyidea.org/thoughts-about-a-form-generation-service-gis-enabled.html) while working for Mozilla. The project is currently in use managing the sync of certain data in Firefox.
-
-**[Copanier](https://github.com/spiral-project/copanier)**
-
-A web application created in 2019 that organises purchasing groups. This software was first written by [Yohan Boniface](https://yohanboniface.me/) and I then took it over and adapted it for a group I'm involved in. I'm currently working on the next version of this with other folks in a project named [Chariotte](https://chariotte.fr)
+- **[Pelican](http://getpelican.com)**: A static site generator I [created in 2010](https://blog.notmyidea.org/pelican-a-simple-static-blog-generator-in-python.html). Currently used by the [Linux Kernel](https://www.kernel.org/pelican.html) and [Debian](https://bits.debian.org/pages/about.html) for their websites.
+- **[I Hate Money](http://ihatemoney.org)**: A website to handle group expenses, [created in late 2011](https://blog.notmyidea.org/how-are-you-handling-your-shared-expenses.html). It allows users to input who paid what, for whom, and manages a balance for you. It currently hosts ~2500 active projects.
+- **[Kinto](https://github.com/kinto/kinto)**: A generic backend for web applications. I initiated this project with colleagues [in 2012](https://blog.notmyidea.org/thoughts-about-a-form-generation-service-gis-enabled.html) while working for Mozilla. The project is currently in use managing the sync of certain data in Firefox.
+- **[Copanier](https://github.com/spiral-project/copanier)**: A web app created in 2019 to help purchasing groups. This is an extension of the work by [Yohan](https://yohanboniface.me/): I adapted it for a group I'm involved in. I'm currently working on the next version of this with other folks in a project named [Chariotte](https://chariotte.fr)
 
 ## Past Experiences
 
-[Brasserie du Vieux Singe](https://www.vieuxsinge.com/)
-: I co-founded in 2017 an organic craft brewery that upholds values of cooperation, sharing, and gastronomy. I left in the summer of 2023 to return to development. The brewery still exists.
-
-[Mozilla](https://mozilla.org)
-: I worked from 2011 to 2016 for Mozilla within the "Services" team. I was able to work on projects around user data, encryption, and synchronization, as well as scaling some sites like addons.mozilla.com.
+- [Brasserie du Vieux Singe](https://www.vieuxsinge.com/): I'm one of the two founders of this brewery that upholds values of cooperation, sharing, and gastronomy. Created in 2017, I left in the summer of 2023. The brewery still exists.
+- [Mozilla](https://mozilla.org): I worked from 2011 to 2016 for Mozilla within the "Services" team. I was able to work on projects around user data, encryption, and synchronization, as well as scaling some sites like addons.mozilla.com.
 
 ## Values and Interests
 
